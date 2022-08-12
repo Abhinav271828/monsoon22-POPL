@@ -16,9 +16,14 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
         * Introduction (contd.)
             - Imperative and Declarative Programming
             - Functional Programming
-* Week 3
     * Lecture 3 (06 August, Saturday)
         * Recursive Data Types
         * Syntax of Programming Languages
             * Concrete and Abstract Syntax
             * An Example
+* Week 3
+    * Lecture 4 (10 August, Wednesday) [recorded]
+        * Basic Ideas of Functional Programming
+            * Scope
+            * Recursion
+            * Higher-Order Functions
