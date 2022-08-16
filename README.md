@@ -27,3 +27,5 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
             * Scope
             * Recursion
             * Higher-Order Functions
+    * Lecture 5 (13 August, Saturday) [recorded]
+        * Basic Elements of Racket Syntax

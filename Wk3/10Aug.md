@@ -2,7 +2,7 @@
 title: Principles of Programming Languages (CS1.402)
 subtitle: |
           | 10 August, Tuesday (Lecture 4)
-author: Taught by Mrityunjay Kumar
+author: Taught by Prof. Venkatesh Choppella
 header-includes: \usepackage{proof}
 ---
 
