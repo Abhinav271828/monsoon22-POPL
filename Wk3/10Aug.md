@@ -1,7 +1,7 @@
 ---
 title: Principles of Programming Languages (CS1.402)
 subtitle: |
-          | 10 August, Tuesday (Lecture 4)
+          | 10 August, Wednesday (Lecture 4)
 author: Taught by Prof. Venkatesh Choppella
 header-includes: \usepackage{proof}
 ---

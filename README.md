@@ -29,3 +29,6 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
             * Higher-Order Functions
     * Lecture 5 (13 August, Saturday) [recorded]
         * Basic Elements of Racket Syntax
+* Week 4
+    * Lecture 6 (20 August, Saturday)
+        * ASTs in Racket
