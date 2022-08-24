@@ -32,3 +32,7 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
 * Week 4
     * Lecture 6 (20 August, Saturday)
         * ASTs in Racket
+* Week 5
+    * Lecture 7 (24 August, Wednesday)
+        * Evaluation
+        * An Example: `IF+`

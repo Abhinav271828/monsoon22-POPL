@@ -1,7 +1,7 @@
 ---
 title: Principles of Programming Languages (CS1.402)
 subtitle: |
-          | 20 August, Saturday (Lecture 5)
+          | 20 August, Saturday (Lecture 6)
 author: Taught by Mritunjay Kumar
 header-includes: \usepackage{proof}
 ---
