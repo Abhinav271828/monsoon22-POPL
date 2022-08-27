@@ -36,3 +36,5 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
     * Lecture 7 (24 August, Wednesday)
         * Evaluation
         * An Example: `IF+`
+    * Lecture 8 (27 August, Saturday)
+        * An Example: `IF+` (contd.)
