@@ -40,4 +40,9 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
         * An Example: `IF+` (contd.)
 * Week 6
     * Lecture 9 (03 September, Saturday)
-        * 
+        * Scope
+* Week 7
+    * Lecture 10 (07 September, Wednesday)
+        * The Language `FUNCTIONAL+`
+    * Lecture 11 (10 September, Saturday)
+        * The Language `RECURSIVE`
