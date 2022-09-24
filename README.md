@@ -46,3 +46,9 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
         * The Language `FUNCTIONAL+`
     * Lecture 11 (10 September, Saturday)
         * The Language `RECURSIVE`
+* Week 8
+    * Lecture 12 (14 September, Wednesday)
+        * The Language `RECURSIVE2`
+* Week 9
+    * Lecture 13 (24 September, Saturday)
+        * Abstract Reduction Systems
