@@ -30,6 +30,7 @@ R^* &= \bigcup_{n \geq 0} R^n \text{ [reflexive-transitive closure]} \\
 R^+ &= \bigcup_{n > 0} R^n \text{ [transitive closure]}
 \end{split}$$
 
+An element of $R^*$ is a *simplification* (nonstandard terminology).  
 Under an ARS $(A, \to)$, we say that $y \in A$ is a *normal form of $x \in A$* if $x \xrightarrow{*}y$ and $y$ is irreducible. A *normal form of $A$* itself is any irreducible element of $A$.  
 For instance, in example 2 above, all prime numbers are normal forms. In this case, we have
 $$\begin{split}
@@ -38,4 +39,4 @@ $$\begin{split}
 &\supseteq (\to)
 \end{split}$$
 
-Further, we call $x, y \in A$ *joinable* if there exists $z \in A$ such that $x \xrightarrow{*} z$ and $y \xrightarrow{*} z$.
+Further, we call $x, y \in A$ *joinable* if there exists $z \in A$ such that $x \xrightarrow{*} z$ and $y \xrightarrow{*} z$. This is denoted $x \downarrow y$.

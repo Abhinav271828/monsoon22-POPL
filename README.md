@@ -52,3 +52,7 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
 * Week 9
     * Lecture 13 (24 September, Saturday)
         * Abstract Reduction Systems
+* Week 10
+    * Lecture 14 (28 September, Wednesday)
+        * Properties of ASRs
+        * Well-Founded Induction
