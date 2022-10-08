@@ -2,8 +2,8 @@
 Notes and resources for the Principles of Programming Languages course at IIIT Hyderabad.
 
 # Course Outline
-- [ ] Functional Programming & ASTs
-- [ ] Basic Principles of PLs
+- [x] Functional Programming & ASTs
+- [x] Basic Principles of PLs
 - [ ] Abstract Reduction Systems & Lambda Calculus
 - [ ] Recursion to Iteration, Threads, Other Topics
 
@@ -56,3 +56,13 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
     * Lecture 14 (28 September, Wednesday)
         * Properties of ASRs
         * Well-Founded Induction
+    * Lecture 15 (01 October, Saturday)
+        * Class was missed. Find notes [here](https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/par-lang/index.html) [up to and including part 6].
+* Week 11
+    * Lecture 16 (08 October, Saturday)
+        * Properties of PARLANG
+            * Termination
+            * Non-Confluence
+            * Normalisation
+        * Lambda Calculus
+            * Syntax
