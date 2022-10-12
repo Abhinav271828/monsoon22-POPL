@@ -66,3 +66,11 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
             * Normalisation
         * Lambda Calculus
             * Syntax
+* Week 12
+    * Lecture 17 (12 October, Wednesday)
+        * Lambda Calculus (contd.)
+            * Properties and Operations
+                * Replacement
+                * Variables
+                * $\alpha$-Equivalence
+                * Substitution
