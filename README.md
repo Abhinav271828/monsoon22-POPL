@@ -54,7 +54,7 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
         * Abstract Reduction Systems
 * Week 10
     * Lecture 14 (28 September, Wednesday)
-        * Properties of ASRs
+        * Properties of ARSs
         * Well-Founded Induction
     * Lecture 15 (01 October, Saturday)
         * Class was missed. Find notes [here](https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/par-lang/index.html) [up to and including part 6].
@@ -74,3 +74,8 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
                 * Variables
                 * $\alpha$-Equivalence
                 * Substitution
+    * Lecture 18 (15 October, Saturday)
+        * Lambda Calculus
+            * Rewrite Rules
+            * Lambda Calculus as an ASR
+                * Properties
