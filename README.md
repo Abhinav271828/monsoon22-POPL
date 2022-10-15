@@ -79,3 +79,11 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
             * Rewrite Rules
             * Lambda Calculus as an ASR
                 * Properties
+    * Lecture 19 (15 October, Saturday)
+        * Lambda Calculus (contd.)
+            * Encoding Data in Lambda Calculus
+                * Primitives
+                * Booleans
+                * Numbers
+                * Pairs & Predecessors
+                * Recursion
