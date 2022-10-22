@@ -86,4 +86,9 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
                 * Booleans
                 * Numbers
                 * Pairs & Predecessors
-                * Recursion
+            * Recursion
+* Week 13
+    * Lecture 20 (22 October, Saturday)
+        * Lambda Calculus
+            * Recursion (contd.)
+            * Reduction Strategies
