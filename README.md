@@ -92,3 +92,8 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
         * Lambda Calculus
             * Recursion (contd.)
             * Reduction Strategies
+* Week 14
+    * Lecture 21 (26 October, Wednesday)
+        * Imperative Transformations
+            * Factorial
+            * Step
