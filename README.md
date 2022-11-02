@@ -101,3 +101,8 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
     * Lecture 22 (02 November, Wednesday)
         * Continuation
             * Continuation-Passing Style
+    * Lecture 23 (02 November, Wednesday)
+        * Continuation
+            * Continuation-Passing Style (contd.)
+            * Converting Programs to CPS
+            * CPS Interpreter
