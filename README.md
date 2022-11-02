@@ -97,3 +97,7 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
         * Imperative Transformations
             * Factorial
             * Step
+* Week 15
+    * Lecture 22 (02 November, Wednesday)
+        * Continuation
+            * Continuation-Passing Style
