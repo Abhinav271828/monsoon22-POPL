@@ -106,3 +106,8 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
             * Continuation-Passing Style (contd.)
             * Converting Programs to CPS
             * CPS Interpreter
+    * Lecture 24 (05 November, Saturday)
+        * Continuation (contd.)
+            * Representation Independence
+            * Non-Procedural Representation
+            * Closure Representation
