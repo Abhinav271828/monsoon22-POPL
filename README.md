@@ -4,7 +4,8 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
 # Course Outline
 - [x] Functional Programming & ASTs
 - [x] Basic Principles of PLs
-- [ ] Abstract Reduction Systems & Lambda Calculus
+- [x] Abstract Reduction Systems & Lambda Calculus
+- [x] Continuations & CPS
 - [ ] Recursion to Iteration, Threads, Other Topics
 
 # Lecture Contents
@@ -111,3 +112,6 @@ Notes and resources for the Principles of Programming Languages course at IIIT H
             * Representation Independence
             * Non-Procedural Representation
             * Closure Representation
+    * Lecture 25 (05 November, Saturday)
+        * Continuation (contd.)
+            * Interpreters in CPS
